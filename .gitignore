@@ -1,0 +1,13 @@
+.nyc_output/
+coverage/
+tmp/
+data/
+node_modules/
+logs/
+results/
+*.log
+**.zip
+**.gz
+**.tgz
+/config.local.*js
+uploads/**
