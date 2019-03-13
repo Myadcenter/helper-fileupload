@@ -1,7 +1,7 @@
 /** From: https://github.com/richardgirges/express-fileupload/tree/master/example
  * 
  * Simple file upload.
- * Helper script to test puppeter file upload function.
+ * Helper script to test puppeteer file upload function.
  */
 const express = require('express');
 const fileUpload = require('express-fileupload');
